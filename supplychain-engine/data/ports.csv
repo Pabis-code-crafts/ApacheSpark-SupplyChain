@@ -1,0 +1,5 @@
+port_id,name,country_id,throughput_index
+PT1,Shanghai Port,C1,10
+PT2,Hamburg Port,C2,7
+PT3,Los Angeles Port,C3,8
+PT4,Mumbai Port,C4,6

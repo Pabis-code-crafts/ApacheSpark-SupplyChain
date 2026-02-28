@@ -1,0 +1,12 @@
+(Supplier) ──SUPPLIES──> (Factory)
+   │
+   ▼
+(Country)
+
+(Factory) ──PRODUCES──> (Component)
+(Component) ──PART_OF──> (Product)
+(Product) ──STORED_IN──> (Warehouse)
+(Warehouse) ──SHIPPED_VIA──> (Port)
+(Port) ──LOCATED_IN──> (Country)
+
+(Retailer) ──SELLS──> (Product)

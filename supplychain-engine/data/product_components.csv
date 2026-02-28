@@ -1,0 +1,12 @@
+product_id,component_id,quantity_required
+P1,CPT1,1
+P1,CPT2,1
+P1,CPT3,1
+P1,CPT4,1
+P2,CPT2,1
+P2,CPT3,1
+P2,CPT4,2
+P2,CPT5,1
+P3,CPT2,1
+P3,CPT3,1
+P3,CPT4,1

@@ -1,0 +1,5 @@
+warehouse_id,name,country_id,storage_capacity
+W1,Shanghai Hub,C1,20000
+W2,Hamburg Storage,C2,15000
+W3,Texas Distribution,C3,18000
+W4,Mumbai Central Warehouse,C4,16000

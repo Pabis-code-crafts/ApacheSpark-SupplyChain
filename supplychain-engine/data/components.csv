@@ -1,0 +1,6 @@
+component_id,name,category,criticality_score
+CPT1,Aluminum Frame,Structural,6
+CPT2,Processor Chip,Electronics,10
+CPT3,Display Panel,Electronics,8
+CPT4,Battery Unit,Power,9
+CPT5,Plastic Casing,Structural,5

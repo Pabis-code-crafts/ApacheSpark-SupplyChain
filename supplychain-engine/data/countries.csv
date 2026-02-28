@@ -1,0 +1,6 @@
+country_id,name,region,risk_index
+C1,China,Asia,8
+C2,Germany,Europe,2
+C3,USA,North America,3
+C4,India,Asia,5
+C5,Vietnam,Asia,6

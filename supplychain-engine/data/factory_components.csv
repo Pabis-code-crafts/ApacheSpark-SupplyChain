@@ -1,0 +1,7 @@
+factory_id,component_id,monthly_output
+F1,CPT1,5000
+F1,CPT2,4000
+F2,CPT3,3500
+F3,CPT5,4500
+F4,CPT2,4200
+F4,CPT4,3800

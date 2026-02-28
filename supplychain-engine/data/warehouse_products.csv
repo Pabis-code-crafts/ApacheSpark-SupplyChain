@@ -1,0 +1,5 @@
+warehouse_id,product_id,stock_quantity
+W1,P1,3000
+W2,P2,2000
+W3,P1,2500
+W4,P3,2200

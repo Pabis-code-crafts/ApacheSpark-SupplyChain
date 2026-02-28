@@ -1,0 +1,6 @@
+supplier_id,name,country_id,supplier_type,capacity_index
+S1,Shenzhen Metals,C1,RawMaterial,9
+S2,Bavaria Circuits,C2,Electronics,7
+S3,Texas Plastics,C3,Polymer,6
+S4,Chennai MicroParts,C4,Microchips,8
+S5,Saigon Components,C5,Electronics,7
